@@ -1,0 +1,7 @@
+/.vs
+/.git
+/packages
+/*/bin
+/*/obj
+*Settings
+.idea/*
